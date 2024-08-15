@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(9, 1, 1);
+}
+.container{
+            max-width: 80%;
+            margin: 0 auto;
+            background-color: rgb(105, 105, 1);
+            padding: 20px;
+
+}
+header h2{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+
+p{
+    text-align: center;
+}
+
+table, th, td{
+    border: 2px solid rgb(248, 248, 248);
+}
+th{
+    background-color: rgb(19, 19, 1);
+    padding: 5px;
+    color: rgb(251, 161, 149);
+}
+td{
+    background-color: rgb(190, 247, 247);
+    padding: 5px;
+}
+.img{
+    display: flex;
+    margin-left: 250px;
+    
+}
+.tabl1{
+    margin-left: 850px;
+    margin-right: 700px;
+    margin-top: -240px;
+    margin-bottom: 80px;
+}
+.tabl{
+    margin-left: 850px;
+    margin-right: 700px;
+    margin-top: -340px;
+    margin-bottom: 100px;
+}
